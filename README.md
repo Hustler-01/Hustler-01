@@ -52,7 +52,10 @@ I use a diverse set of technologies to transform ideas into practical solutions.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hustler_0411) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmeenkhatoon01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AzmeenKhatoon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeenkhatoon2704@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hustler_0411) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmeenkhatoon01) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AzmeenKhatoon) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeenkhatoon2704@gmail.com) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hustler-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -72,4 +75,3 @@ I'm always open to collaboration and new opportunities. If you have a project or
 Thanks for stopping by! 😊
 ![](https://komarev.com/ghpvc/?username=Hustler-01&color=brightgreen)
 ---
-[![](https://visitcount.itsvg.in/api?id=Hustler-01&icon=0&color=0)](https://visitcount.itsvg.in)
