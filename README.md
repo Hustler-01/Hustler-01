@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m an aspiring Artificial Intelligence & Machin
 🎓 Currently a final year student, pursuing B.Tech in Artificial Intelligence and Machine Learning from Indira Gandhi Delhi Technical University for Women (IGDTUW).<br><br>🌱 I’m constantly learning and exploring new technologies in AI and Machine Learning.<br><br>💡 Fun fact: If I’m not buried in code, I’m likely reading web novels or catching up on much-needed sleep 😄
 
 
-## 💻 Tech Stack:
+## 💻 Technologies & Tools
 
 I use a diverse set of technologies to transform ideas into practical solutions. Some of the tools I enjoy working with include:
 
