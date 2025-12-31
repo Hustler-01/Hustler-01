@@ -1,6 +1,6 @@
 ## Hi 👋 I’m Azmeen! ✨
 
-Welcome to my GitHub profile! I’m an aspiring Artificial Intelligence & Machine Learning engineer with a keen interest in Data Science, Deep Learning and Computer Vision. I enjoy learning new concepts, experimenting with models, and working on projects that help me grow step by step.
+Welcome to my GitHub profile! I’m an aspiring Artificial Intelligence & Machine Learning engineer with a keen interest in Machine Learning, Deep Learning and Computer Vision. I enjoy learning new concepts, experimenting with models, and working on projects that help me grow step by step.
 
 # 💫 About Me:
 🎓 Currently a final year student, pursuing B.Tech in Artificial Intelligence and Machine Learning from Indira Gandhi Delhi Technical University for Women (IGDTUW).<br><br>🌱 I’m constantly learning and exploring new technologies in AI and Machine Learning.<br><br>💡 Fun fact: When I’m not coding or debugging models, you’ll probably find me reading webnovels… or catching up on sleep 💤😄
