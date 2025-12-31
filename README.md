@@ -57,13 +57,6 @@ I use a diverse set of technologies to transform ideas into practical solutions.
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AzmeenKhatoon) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeenkhatoon2704@gmail.com) 
 
-<div align="center">
-
-### 📊 **Total Contributions**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hustler-01&bg_color=0d1117&color=79c0ff&line=58a6ff&point=79c0ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%"/>
-
-</div>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hustler-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
