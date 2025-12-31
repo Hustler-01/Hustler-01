@@ -1,4 +1,4 @@
-## Hi 👋 I’m Azmeen! ✨
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Azmeen! ✨ </h1>
 
 Welcome to my GitHub profile! I’m an aspiring Artificial Intelligence & Machine Learning engineer with a keen interest in Machine Learning, Deep Learning and Computer Vision. I enjoy learning new concepts, experimenting with models, and working on projects that help me grow step by step.
 
