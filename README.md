@@ -13,14 +13,19 @@ I use a diverse set of technologies to transform ideas into practical solutions.
 ### 🛠 Languages 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 ### 🛠 Libraries and Frameworks
-
+ 
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23663399.svg?style=flat&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%2300B3A4.svg?style=flat&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%23007ACC.svg?style=flat&logo=meta&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
