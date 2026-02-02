@@ -58,7 +58,7 @@ I use a diverse set of technologies to transform ideas into practical solutions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hustler_0411) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmeenkhatoon01) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AzmeenKhatoon) 
+[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/AzmeenKhatoon) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeenkhatoon2704@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/azmeenkhatoon/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2300BFFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/azmeenkhatoon)
