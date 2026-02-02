@@ -14,7 +14,7 @@ I use a diverse set of technologies to transform ideas into practical solutions.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 ### 🛠 Libraries and Frameworks
