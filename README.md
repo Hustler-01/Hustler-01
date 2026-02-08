@@ -60,8 +60,8 @@ I use a diverse set of technologies to transform ideas into practical solutions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmeenkhatoon01) 
 [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/AzmeenKhatoon) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeenkhatoon2704@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/azmeenkhatoon/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2300BFFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/azmeenkhatoon)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/azmeenkhatoon/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2300BFFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/azmeenkhatoon) -->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hustler-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
